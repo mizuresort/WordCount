@@ -1,6 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        String fileName="pass of file";
+        String fileName="path of file";
 
         int wordCount=WordCount.readFireAndWordCount(fileName);
 
